@@ -10,3 +10,5 @@ Build times are quite excessive, expect >= 24 hours if compiling on an aarch64 S
 All releases provided have been compiled using Arch Linux ARM on an Odroid-N2.
 
 Releases are not provided with any frequency except when I feel like doing so, feel free to modify this work and create your own updates.
+
+Permission granted to do it yourself!
